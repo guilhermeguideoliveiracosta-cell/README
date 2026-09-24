@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Quem sou eu
 
-Sou um [Sua Profissão, ex: Desenvolvedor Front-end / Estudante de Engenharia de Software] apaixonado por criar soluções inovadoras e resolver problemas complexos. Atualmente, estou focado em aprimorar minhas habilidades em [área de estudo atual] e sempre em busca de novos desafios!
+Sou um Estudante de ciencias da computação apaixonado por criar soluções inovadoras e resolver problemas complexos. Atualmente, estou focado em aprimorar minhas habilidades em programação Python, SQL, css, java e sempre em busca de novos desafios!
 
 
 
